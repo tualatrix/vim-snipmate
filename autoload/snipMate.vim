@@ -23,6 +23,7 @@ let s:snipMate['scope_aliases'] = get(s:snipMate,'scope_aliases',
 	  \ ,'ur': 'html,javascript'
 	  \ ,'mxml': 'actionscript'
 	  \ ,'eruby': 'eruby-rails,html'
+	  \ ,'ruby': 'ruby,ruby-rails'
 	  \ } )
 
 " set this to "\<tab>" to make snipmate not swallow tab (make sure to not have
